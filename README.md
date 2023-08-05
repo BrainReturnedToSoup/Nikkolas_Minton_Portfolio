@@ -15,7 +15,7 @@ robustness and a level of efficiency through some of the techniques their functi
 - **Event-Driven Functionality Manager**: Create interactive user interfaces with ease through event handling.
 
 - **API Interfaces**: Holds a set of various API interface classes in order to easily create instances to directly interact with a target API.
-- 
+  
 ## General Features
  
  Holds a list of higher level helper classes that use these foundational modules in order to achieve a specific functionality.
